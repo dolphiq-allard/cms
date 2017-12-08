@@ -1345,5 +1345,5 @@ Als je deze email niet verwachtte, kun je hem gewoon negeren.',
     'Your connection is insecure' => 'Your connection is insecure',
     'Total' => 'Total',
     'Created at' => 'Created at',
-    'Video Embed Code or YouTube/Vimeo Link' => 'Video Embed Code or YouTube/Vimeo Link',
+    'Video Embed Code or YouTube/Vimeo Link' => 'Video Embed Code of YouTube/Vimeo Link',
 ];
